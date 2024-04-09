@@ -63,6 +63,14 @@ HTML, CSS e links para documentação disponibilizados pelo autor [Mayk Brito](h
 
 Repositório do projeto do autor: https://github.com/maykbrito/boracodar31
 
+## Exemplo de Utilização
+
+Aqui está uma captura de tela da aplicação em execução:
+
+![Descrição da Imagem](screenshots/cap1.png)
+![Descrição da Imagem](screenshots/cap2.png)
+![Descrição da Imagem](screenshots/cap3.png)
+
 
 
 
