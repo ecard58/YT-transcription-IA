@@ -25,7 +25,6 @@ Para executar este projeto localmente, é necessário ter instalado:
 
 git clone https://github.com/ecard58/YT-transcription-IA.git
 
-
 2. Instale as dependências do projeto:
 
 npm install
@@ -70,8 +69,4 @@ Aqui está uma captura de tela da aplicação em execução:
 ![Descrição da Imagem](screenshots/cap1.png)
 ![Descrição da Imagem](screenshots/cap2.png)
 ![Descrição da Imagem](screenshots/cap3.png)
-
-
-
-
-
+![Descrição da Imagem](screenshots/cap4.png)
